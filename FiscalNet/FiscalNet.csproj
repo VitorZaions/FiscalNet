@@ -10,10 +10,18 @@
     <PackageIcon>BioSACBorder140.png</PackageIcon>
     <RepositoryType>git</RepositoryType>
     <LangVersion>preview</LangVersion>
-    <SignAssembly>True</SignAssembly>
+    <SignAssembly>False</SignAssembly>
     <AssemblyOriginatorKeyFile>D:\Users\Marco Polo\Pictures\SACFiscal\sacfiscal</AssemblyOriginatorKeyFile>
     <AssemblyVersion>2022.8.2</AssemblyVersion>
     <FileVersion>2022.8.2</FileVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>portable</DebugType>
   </PropertyGroup>
 
   <ItemGroup>
