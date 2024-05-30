@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitor\\Documents\\GitHub\\sync\\Sync.Libs\\FiscalNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEDF97D-6A2B-4D37-B61D-EE5A283D9094}|FiscalNetTestes\\FiscalNetTestes.csproj|c:\\users\\vitor\\documents\\github\\sync\\sync.libs\\fiscalnet\\fiscalnettestes\\fiscalnettestes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FEEDF97D-6A2B-4D37-B61D-EE5A283D9094}|FiscalNetTestes\\FiscalNetTestes.csproj|solutionrelative:fiscalnettestes\\fiscalnettestes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAFF690-6AA3-4151-BD53-B23E91628008}|FiscalNet\\FiscalNet.csproj|c:\\users\\vitor\\documents\\github\\sync\\sync.libs\\fiscalnet\\fiscalnet\\fiscalnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3EAFF690-6AA3-4151-BD53-B23E91628008}|FiscalNet\\FiscalNet.csproj|solutionrelative:fiscalnet\\fiscalnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiscalNetTestes",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GitHub\\sync\\Sync.Libs\\FiscalNet\\FiscalNetTestes\\FiscalNetTestes.csproj",
+              "RelativeDocumentMoniker": "FiscalNetTestes\\FiscalNetTestes.csproj",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GitHub\\sync\\Sync.Libs\\FiscalNet\\FiscalNetTestes\\FiscalNetTestes.csproj",
+              "RelativeToolTip": "FiscalNetTestes\\FiscalNetTestes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T02:01:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiscalNet",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Documents\\GitHub\\sync\\Sync.Libs\\FiscalNet\\FiscalNet\\FiscalNet.csproj",
+              "RelativeDocumentMoniker": "FiscalNet\\FiscalNet.csproj",
+              "ToolTip": "C:\\Users\\Vitor\\Documents\\GitHub\\sync\\Sync.Libs\\FiscalNet\\FiscalNet\\FiscalNet.csproj",
+              "RelativeToolTip": "FiscalNet\\FiscalNet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T01:55:08.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
